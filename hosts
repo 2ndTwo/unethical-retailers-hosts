@@ -1,0 +1,15 @@
+# Title: Unethical Retailers' Hosts
+# Author: Colby Weil
+#
+# This hosts file contains domains owned by unethical retailers. The goal of
+#   blocking these sites is to make it easier to avoid purchasing products
+#   from unethical companies. Or at least to make it take conscious effort
+#   by requiring these sites to be added to an allowlist.
+#
+# Only the domain hosting the retailer's store will be blocked (usually
+#   starting with www). This should make it a bit easier to add specific sites
+#   to an allowlist.
+
+# Template:
+# [Company Name] ([filename for company inclusion explanation].md)
+# 0.0.0.0 [Company URL]
